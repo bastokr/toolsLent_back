@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405444157630",
+    "firebase_url": "https://bangtaltok.firebaseio.com",
+    "project_id": "bangtaltok",
+    "storage_bucket": "bangtaltok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405444157630:android:03226050b3e1e18a1cfeef",
+        "android_client_info": {
+          "package_name": "com.shsoft.bangtaltok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405444157630-cf00p5leui2frh2qmkfrjr7k226or5i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shsoft.bangtaltok",
+            "certificate_hash": "b9bbf8ad0b67d088eda2bda35a48e56a68bef08e"
+          }
+        },
+        {
+          "client_id": "405444157630-sshk52qgsuu8fgnudtc6edgiennc5b3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [ 
+        {
+          "current_key": "AIzaSyANFKShAGZAI4oVFWDTTGGjdH-RtfbBjDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405444157630-sshk52qgsuu8fgnudtc6edgiennc5b3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
